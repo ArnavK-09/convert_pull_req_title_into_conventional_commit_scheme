@@ -1,4 +1,4 @@
-## 🌟 
+## 🌟🌟🌟🌟🌟 
 # convert_pull_req_title_into_conventional_commit_scheme
 
 > [!NOTE]  
